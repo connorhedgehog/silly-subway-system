@@ -1,0 +1,50 @@
+-- Relay names are given to you when you right 
+-- click on the modems next to them.
+
+-- Relay name for the minecart dispenser.
+dispenserRelay = ""
+
+-- Relay name for the powered rails that send the
+-- minecart off.
+railRelay = ""
+
+-- If the rails are turning in the opposite
+-- directions of what you're expecting, set this
+-- to true.
+invertSignals = false
+
+<destinations>
+
+-- How many destinations your set up has. Max is 4.
+-- Current limitations mean one should be 
+-- completely straight ahead, meaning the minecart 
+-- goes past each turn to get there. Most setups 
+-- are like this, so it shouldn't be a problem.
+amount = 2
+
+-- All of the specifics for each destination, 
+-- including their button label and redstone relay
+-- Values above your max destination count won't be
+-- used.
+
+-- Each line can only be either 13 or 32 characters
+-- depending on the size of the button. The second
+-- line is not used if you only have one button.
+
+-- The first destination is the one that the 
+-- minecart arrives at first.
+
+firstLabel = "Ravenholm"
+firstLabelSecondLine = ""
+firstRelay = ""
+
+secondLabel = "Aperture"
+secondLabelSecondLine = "Science"
+secondRelay = ""
+
+thirdLabel = "Black Mesa"
+thirdLabelSecondLine = ""
+thirdRelay = ""
+
+fourthLabel = "gm_construct"
+fourthLabelSecondLine = ""
