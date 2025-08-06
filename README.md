@@ -19,4 +19,4 @@ This is the actual transportation part. You can lock this behind a turnstile, or
 This lets a player spawn a minecart (or use an existing one), and choose where they'd like to go. It uses redstone relays and minecart turn mechanics to achieve this, plus a human readable config for subway owners to adjust everything.
 
 ## Setup
-Check out the [wiki](https://github.com/connorhedgehog/silly-subway-system/wiki) for a tutorial on how to set everything up.
+Check out the [wiki](https://github.com/connorhedgehog/silly-subway-system/wiki) for a tutorial on how to set everything up. It's definitely not professional grade, but it gets the job done.
