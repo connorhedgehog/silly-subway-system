@@ -20,3 +20,6 @@ This lets a player spawn a minecart (or use an existing one), and choose where t
 
 ## Setup
 Check out the [wiki](https://github.com/connorhedgehog/silly-subway-system/wiki) for a tutorial on how to set everything up. It's definitely not professional grade, but it gets the job done.
+
+## Showcase
+[![](https://img.youtube.com/vi/F5zLTRTtWts/0.jpg)](https://www.youtube.com/watch?v=F5zLTRTtWts)
